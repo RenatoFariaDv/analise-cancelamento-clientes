@@ -9,7 +9,7 @@ Este trabalho visa não apenas identificar padrões, mas também fornecer insigh
 ## Fonte de Dados
 
 Os dados utilizados nesta análise foram fornecidos pela empresa e estão disponíveis no arquivo `cancelamentos_sample.csv`.
-Você pode acessar o dataset original neste link: [https://drive.google.com/drive/folders/1uDesZePdkhiraJmiyeZ-w5tfc8XsNYFZ?usp=drive_link](https://drive.google.com/drive/folders/1uDesZePdkhiraJmiyeZ-w5ftc0lSxNYFZ?usp=drive_link)
+
 
 ## Metodologia e Passos da Análise
 
