@@ -89,6 +89,6 @@ A implementação dessas ações, combinada com o monitoramento contínuo, tem o
 ## Autor
 
 Renato Faria
-[ Perfil no LinkedIn: https://www.linkedin.com/in/renato-faria-b96aa0322/]
+Perfil no LinkedIn: https://www.linkedin.com/in/renato-faria-b96aa0322/
 
 ---
